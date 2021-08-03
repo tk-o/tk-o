@@ -5,7 +5,7 @@
 </a>
 
 - 🇵🇱 I'm from Poland 
-- 🔭 I’m currently working with @deployAt and @korzewski on our common project [atomiklabs.io](https://www.atomiklabs.io)
+- 🔭 I’m currently working with [@deployAt](https://github.com/deployAt/) and [@korzewski](https://github.com/korzewski/) on our common project [atomiklabs.io](https://www.atomiklabs.io)
 - 🌱 I’m currently learning about Substrate ecosystem (blockchain solutions, smart-contracts, cryptography)
 - 📫 How to reach me: [0xTko](https://twitter.com/0xTko) on Twitter
 - 💬 Ask me about growing from a hype-driven engineer to outcome-focused engineer
